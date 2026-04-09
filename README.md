@@ -1,5 +1,5 @@
 
-# Olá! Eu sou o  💻
+# Olá! Eu sou o Felipe Baccarat 💻
 🚀 **Desenvolvedor**
 🇧🇷 Brasil
 
@@ -10,7 +10,7 @@
 ## 🌐 Onde me encontrar
 
 <p align="left">
-  <a href="https://github.com/fgabrielmorais">
+  <a href="https://github.com/felipebaccarat">
     <img src="https://img.shields.io/badge/GitHub-FGABRIELMORAIS-181717?style=for-the-badge&logo=github" />
   </a>
   <a href="https://instagram.com/fgabrielmorais">
