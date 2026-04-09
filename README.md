@@ -3,7 +3,7 @@
 🚀 **Desenvolvedor**
 🇧🇷 Brasil
 
-  **Atualmente estudante de SI na Universidade Estadual de Campinas (UNICAMP).** Possuo uma grande paixão pela tecnologia e estou focado em construir soluções eficientes, aprendendo algo novo todos os dias. Seja bem-vindo(a) ao meu perfil!
+  **Atualmente estudante de Engenharia de Telecomunicações na Universidade Estadual de Campinas (UNICAMP).** Possuo uma grande paixão pela tecnologia e estou focado em construir soluções eficientes, aprendendo algo novo todos os dias. Seja bem-vindo(a) ao meu perfil!
   
 ---
 
@@ -11,10 +11,10 @@
 
 <p align="left">
   <a href="https://github.com/felipebaccarat">
-    <img src="https://img.shields.io/badge/GitHub-FGABRIELMORAIS-181717?style=for-the-badge&logo=github" />
+    <img src="https://img.shields.io/badge/GitHub-Felipebaccarat-181717?style=for-the-badge&logo=github" />
   </a>
-  <a href="https://instagram.com/fgabrielmorais">
-    <img src="https://img.shields.io/badge/Instagram-@FGABRIELMORAIS-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  <a href="https://instagram.com/felipe.baccarat">
+    <img src="https://img.shields.io/badge/Instagram-@felipe.baccarat-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
 </p>
 
